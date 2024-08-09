@@ -1,0 +1,6 @@
+ultralytics
+transformers
+Pillow
+easyocr
+streamlit
+opencv-python
