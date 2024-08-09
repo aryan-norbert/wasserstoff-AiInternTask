@@ -20,6 +20,11 @@ Image Analysis App is a comprehensive pipeline that leverages cutting-edge deep 
 ### Identified Image
 ![identified_cycle](https://github.com/user-attachments/assets/3c03820c-a614-40f7-9649-42749f47156e)
 
+### Some Segmented Images
+![car3](https://github.com/user-attachments/assets/dd2b5823-f2ff-4993-8bc9-406a33905b61)
+![person1](https://github.com/user-attachments/assets/117b1281-7dcd-4a54-a8d5-94a158a128f8)
+![car2](https://github.com/user-attachments/assets/48692d52-326f-499a-b520-9768bcc976a7)
+
 
 ## Running the Streamlit App
 
