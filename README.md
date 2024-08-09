@@ -33,6 +33,7 @@ To run the Streamlit application, use the following command:
     streamlit run streamlit_app/app.py
 ```
 
-Streamlit app: [Wasserstoff Internship Task](https://e60e-35-245-151-20.ngrok-free.app/)
+## Streamlit app: 
+Link: [Wasserstoff Internship Task](https://e60e-35-245-151-20.ngrok-free.app/)
 
 ![screencapture-e60e-35-245-151-20-ngrok-free-app-2024-08-09-14_27_59](https://github.com/user-attachments/assets/70dbde89-2404-47c6-b0c2-c77566957e0d)
