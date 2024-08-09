@@ -14,6 +14,13 @@ Image Analysis App is a comprehensive pipeline that leverages cutting-edge deep 
 - **Text Extraction**: Utilizes EasyOCR, built with powerful foundation models, to accurately extract text from detected regions.
 - **Object Summarization**: Applies FuseCap, a vision transformer-based model, to generate summaries for each detected object.
 
+### Test Image
+![cycle](https://github.com/user-attachments/assets/898a0ccd-50e7-44c9-88e0-bea8bc7c4f57)
+
+### Identified Image
+![identified_cycle](https://github.com/user-attachments/assets/3c03820c-a614-40f7-9649-42749f47156e)
+
+
 ## Running the Streamlit App
 
 To run the Streamlit application, use the following command:
