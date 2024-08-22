@@ -34,6 +34,6 @@ To run the Streamlit application, use the following command:
 ```
 
 ## Streamlit app: 
-Link: [Wasserstoff Internship Task](https://e60e-35-245-151-20.ngrok-free.app/)
+Link: [Wasserstoff Internship Task](https://b3f4-34-90-151-1.ngrok-free.app/)
 
 ![screencapture-e60e-35-245-151-20-ngrok-free-app-2024-08-09-14_27_59](https://github.com/user-attachments/assets/70dbde89-2404-47c6-b0c2-c77566957e0d)
