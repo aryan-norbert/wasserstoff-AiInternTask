@@ -1,0 +1,7 @@
+streamlit
+Pillow
+opencv-python
+pytesseract
+ultralytics
+transformers
+torch
