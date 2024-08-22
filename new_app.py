@@ -1,4 +1,4 @@
-%%writefile streamlit_app/app.py
+%%writefile app.py
 
 import streamlit as st
 import os
@@ -23,7 +23,7 @@ def identify_and_segment(image_path, output_dir):
     results = model_yolo(image_path, save=False)
     table_data = []
     seq_number = 1
-    
+
     for idx, det in enumerate(results[0].boxes.data):
         class_id = int(det[5])
         class_name = model_yolo.names[class_id]
@@ -40,7 +40,7 @@ def identify_and_segment(image_path, output_dir):
 
         table_data.append([seq_number, class_name, caption])
         seq_number += 1
-    
+
     return table_data
 
 def extract_text(image_path):
